@@ -1,7 +1,6 @@
 # About Me:
 Developer and Information Systems undergraduate at UNIRIO, with experience in Java, Python, blockchain, smart contracts (Solidity), RESTful APIs, and version control with Git/GitHub. Passionate about technology and continuous learning, I am constantly seeking new challenges to apply and expand my knowledge. Currently, I am looking for a Software Development internship where I can contribute to innovative projects and grow professionally.
 
-## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fe.zamba) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/feazambuja) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fepetitt@gmail.com) 
 
 # Tech Stack:
