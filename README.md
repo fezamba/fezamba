@@ -1,5 +1,5 @@
 # 👋 About Me:
-Information Systems Intern | Information Systems Undergraduate @ UNIRIO
+Developer | Information Systems Undergraduate @ UNIRIO
 
 Passionate about technology and continuous learning, I am a developer and Information Systems undergraduate at UNIRIO. With experience in Java, Python, blockchain, smart contracts (Solidity), RESTful APIs, and version control with Git/GitHub.
 
