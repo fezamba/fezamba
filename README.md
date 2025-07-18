@@ -1,5 +1,5 @@
 # 👋 About Me:
-Intern in IT Infrastructure with a multidisciplinary technical profile and a focus on integrated solutions. I operate at the convergence of development and infrastructure, applying technologies such as PHP, Flask, ExpressJS, and Power Platform to build efficient, secure, and scalable systems. I have experience in process automation, web development, data analysis, and technical support. I am constantly seeking innovation, applying data analysis and agile methodologies to drive performance and continuous improvement of technological infrastructure.
+Intern in IT Infrastructure with a multidisciplinary technical profile and a focus on integrated solutions. I operate at the convergence of development and infrastructure, applying technologies such as PHP, Flask, Java, and Power Platform to build efficient, secure, and scalable systems. I have experience in process automation, web development, data analysis, and technical support. I am constantly seeking innovation, applying data analysis and agile methodologies to drive performance and continuous improvement of technological infrastructure.
 
 # 🚀 Tech Stack:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
