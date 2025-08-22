@@ -19,7 +19,7 @@ Desenvolvedor e graduando em Sistemas de Informação na UNIRIO. Com perfil mult
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=fezamba&theme=tokyonight&hide_border=false&custom_title=Estatísticas do GitHub de Fernando Azambuja&langs_count=9" 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=fezamba&theme=tokyonight&hide_border=false&langs_count=9" 
   />
 
 </p>
