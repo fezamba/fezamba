@@ -12,7 +12,7 @@ Desenvolvedor e graduando em Sistemas de Informação na UNIRIO. Com perfil mult
     title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
 />
 <img 
     align="left" 
