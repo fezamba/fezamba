@@ -10,7 +10,7 @@ Desenvolvedor e graduando em Sistemas de Informação na UNIRIO. Com perfil mult
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="180" 
+    height="175" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=fezamba&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
@@ -18,7 +18,7 @@ Desenvolvedor e graduando em Sistemas de Informação na UNIRIO. Com perfil mult
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="180" 
+      height="175" 
       src="https://github-readme-streak-stats.herokuapp.com/?user=fezamba&theme=tokyonight&hide_border=false&langs_count=9" 
   />
 
