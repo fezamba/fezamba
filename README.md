@@ -1,8 +1,8 @@
 # 🦖 Fernando Azambuja
 
-**`Desenvolvedor de Software`**
+**`Software Developer`**
 
-Desenvolvedor e graduando em Sistemas de Informação na UNIRIO. Com perfil multidisciplinar, busco soluções que integram desenvolvimento e infraestrutura. Possuo experiência em backend, automação, arquitetura de sistemas e análise de dados.
+Developer and Information Systems undergraduate at UNIRIO. With a multidisciplinary profile, I seek solutions that integrate development and infrastructure. I have experience in frontend, backend, automation, systems architecture, ERPs, and data analysis.
 
 ### 📊 Estatísticas
 
