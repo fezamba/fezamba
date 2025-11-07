@@ -12,7 +12,7 @@ Developer and Information Systems undergraduate at UNIRIO. With a multidisciplin
     alt="GitHub Stats" 
     height="180" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fezamba&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&custom_title=Tecnologias&langs_count=6" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fezamba&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 <img 
