@@ -18,7 +18,7 @@ Developer and Information Systems undergraduate at UNIRIO. With a multidisciplin
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="175" 
+      height="170" 
       src="https://github-readme-streak-stats.herokuapp.com/?user=fezamba&theme=tokyonight&hide_border=false&langs_count=6" 
   />
 
