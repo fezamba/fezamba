@@ -10,7 +10,7 @@ Developer and Information Systems undergraduate at UNIRIO. With a multidisciplin
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="150" 
+    height="165" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=fezamba&theme=tokyonight&show_icons=true&hide_border=false&layout=compact&custom_title=Stack&langs_count=6" 
   />
@@ -18,7 +18,7 @@ Developer and Information Systems undergraduate at UNIRIO. With a multidisciplin
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="150" 
+      height="165" 
       src="https://github-readme-streak-stats.herokuapp.com/?user=fezamba&theme=tokyonight&hide_border=false&langs_count=6" 
   />
 
