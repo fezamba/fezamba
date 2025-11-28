@@ -2,7 +2,7 @@
 
 **`Software Developer`**
 
-Developer and Information Systems undergraduate at UNIRIO. With a multidisciplinary profile, I seek solutions that integrate development and infrastructure. I have experience in frontend, backend, automation, systems architecture, ERPs, and data analysis.
+Developer and Information Systems undergraduate at UNIRIO. With a multidisciplinary profile, I seek solutions that integrate development and infrastructure. I have experience in frontend, backend, automation, systems architecture, ERPs, and agile methodologies.
 
 ### 📊 Statistics
 
