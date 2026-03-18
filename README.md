@@ -1,4 +1,4 @@
-# 🦖 Fernando Azambuja
+# Fernando Azambuja
 
 **`Software Developer`**
 
