@@ -5,7 +5,7 @@
 Information Systems undergraduate at UNIRIO focused on backend development with Java and Spring. Builds scalable APIs and enterprise integrations, with experience in RESTful services, automation, SAP/ABAP, Angular, React and agile environments. Currently advancing in Spring, cloud-ready architectures, distributed systems, and SAP backend development, with the goal of becoming a backend specialist for enterprise platforms.
 
 
-### 📊 Statistics
+### Statistics
 
 <p>
   <img 
