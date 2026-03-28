@@ -2,7 +2,7 @@
 
 **`Software Developer`**
 
-Information Systems undergraduate at UNIRIO focused on backend development with Java and Spring. Builds scalable APIs and enterprise integrations, with experience in RESTful services, automation, SAP/ABAP, Angular, React and agile environments. Currently advancing in Spring, cloud-ready architectures, distributed systems, and SAP backend development, with the goal of becoming a backend specialist for enterprise platforms.
+Information Systems undergraduate at UNIRIO focused on backend development with Java and Spring. Strong foundation in APIs, enterprise integrations, SAP/ABAP, and modern web technologies, with a clear goal of becoming a backend specialist in enterprise platforms.
 
 
 ### Statistics
